@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>Rex&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/0bd288cd4c818548d6635d3cbb669aa9</icon>
+  <subtitle>呜呜呜</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://dongrex.github.io/"/>
   <updated>2020-03-25T13:15:07.515Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://dongrex.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Rex</name>
+    <email>321257088@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/03/25/hello-world/"/>
-    <id>http://yoursite.com/2020/03/25/hello-world/</id>
+    <link href="http://dongrex.github.io/2020/03/25/hello-world/"/>
+    <id>http://dongrex.github.io/2020/03/25/hello-world/</id>
     <published>2020-03-25T13:15:07.515Z</published>
     <updated>2020-03-25T13:15:07.515Z</updated>
     

@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/03/25/hello-world/</loc>
+    <loc>http://dongrex.github.io/link/index.html</loc>
+    
+    <lastmod>2020-03-26T05:21:39.015Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dongrex.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-03-26T04:03:55.740Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dongrex.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-03-26T04:03:38.293Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://dongrex.github.io/2020/03/25/hello-world/</loc>
     
     <lastmod>2020-03-25T13:15:07.515Z</lastmod>
     
